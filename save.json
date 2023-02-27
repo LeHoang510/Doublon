@@ -1,0 +1,5 @@
+{
+  "Noms des Colonnes": "I1\tI2\tI3\tI4\tI5\tClé\tRég.\tRégiment\tCompagnie\tNom\tPrénom\tAutre nom\tSurnom\tGrade\tProfession\t+p\tPrénom père\t+m\tNom mère\tAutre nom mère\tPrénom mère\tAutre prénom mère\tDépt naiss. (C)\tCommune naiss.\tJuridiction naiss.\tRégion naiss.\tPays naiss.\tAge\tAnnée naiss. calculée\tDate naiss.\tPage BMS\tDépt domicile (C)\tCommune domicile\tAnnée\tDépt décès (C)\tCommune décès\tLieu décès\tDate décès\tImage\tPage (gauche/droite)\tIndice\tDépt\tLieu\tDate\n",
+  "Soldat1": "5\t3\t4\t3\t2\t0019g4_GSB\tGSB\tGrenadiers de Saint-Brieuc\tDe Bedée\tDollo\tFrançois\t\tLa madelenne\tfusilier\t\t\tPierre\t\tRaullet\t\tLorance\t\t22\tSaint-Vran\tLamballe\tBretagne\t\t35\t1723\t\t\t22\tSaint-Vran\t1758\t\t\t\t\tarchives_SHDGR__GR_2_YC_103__0019.JPG\tgauche\t4\n",
+  "Soldat2": "5\t3\t4\t3\t2\t0020g4_GSB\tGSB\tGrenadiers de Saint-Brieuc\tDe Bedée\tBoivin\tFrançois\t\tLa France\tfusilier\t\t\tFrançois\t\tMahé\t\tHelenne\t\t22\tQuessoy\tMoncontour\tBretagne\t\t25\t1731\t\t\t22\tQuessoy\t1756\t\t\t\t\tarchives_SHDGR__GR_2_YC_103__0020.JPG\tgauche\t4\n"
+}
